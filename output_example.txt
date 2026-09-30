@@ -1,0 +1,18 @@
+==============================================
+     STUDENT PERFORMANCE ASSESSMENT SYSTEM    
+==============================================
+
+Enter Student Name            : Rahul
+Enter Attendance Percentage (%): 82
+Enter Average Marks (%)       : 68
+
+==============================================
+         ACADEMIC EVALUATION REPORT           
+==============================================
+Student Name    : Rahul
+Attendance      : 82.0%
+Average Marks   : 68.0%
+----------------------------------------------
+Risk Level      : Low Risk
+Recommendation  : Good performance. Keep it up.
+==============================================

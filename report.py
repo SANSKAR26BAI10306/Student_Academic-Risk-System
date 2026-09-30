@@ -1,0 +1,12 @@
+def print_report(name, attendance, marks, risk_level, recommendation):
+    print()
+    print("==============================================")
+    print("         ACADEMIC EVALUATION REPORT           ")
+    print("==============================================")
+    print("Student Name    : " + name)
+    print("Attendance      : " + str(attendance) + "%")
+    print("Average Marks   : " + str(marks) + "%")
+    print("----------------------------------------------")
+    print("Risk Level      : " + risk_level)
+    print("Recommendation  : " + recommendation)
+    print("==============================================")
